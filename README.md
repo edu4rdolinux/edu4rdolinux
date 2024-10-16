@@ -19,6 +19,7 @@
 ![FLASK](https://img.shields.io/badge/-FLASK-0D1117?style=for-the-badge&logo=FLASK&logoColor=f1f2f3&labelColor=0D1117)&nbsp;
 ![MONGODB](https://img.shields.io/badge/-MONGODB-0D1117?style=for-the-badge&logo=MONGODB&logoColor=f1f2f3&labelColor=0D1117)&nbsp;
 ![POSTGRESQL](https://img.shields.io/badge/-POSTGRESQL-0D1117?style=for-the-badge&logo=POSTGRESQL&logoColor=f1f2f3&l007ACClor=0D1117)&nbsp;
+![POSTGRESQL](https://img.shields.io/badge/Django-0D1117?style=for-the-badge&logo=django&logoColor=f1f2f3&l007ACClor=0D1117)&nbsp;
 
 ### Tools
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-007ACClogo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
