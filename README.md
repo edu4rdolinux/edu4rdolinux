@@ -38,14 +38,14 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{edu4rdolinux}/count.svg" /></p> 
 <br></div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=footer"/>
-
 <div align="center">
   <a href="https://github.com/edu4rdolinux">
     <picture align="center">
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/edu4rdolinux/edu4rdolinux/output/github-contribution-grid-snake-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/edu4rdolinux/edu4rdolinux/output/github-contribution-grid-snake-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/edu4rdolinux/edu4rdolinux/output/github-contribution-grid-snake-light.svg">
       <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/edu4rdolinux/edu4rdolinux/output/github-contribution-grid-snake.svg">
     </picture>
   </a>
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=footer"/>
