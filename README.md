@@ -16,7 +16,6 @@
 ![SASS](https://img.shields.io/badge/-SASS-0D1117?style=for-the-badge&logo=SASS&logoColor=f1f2f3&labelColor=0D1117)&nbsp;
 ![REACTJS](https://img.shields.io/badge/-REACTJS-0D1117?style=for-the-badge&logo=REACT&logoColor=f1f2f3&labelColor=0D1117)&nbsp;
 ![NEXTJS](https://img.shields.io/badge/-NEXTJS-0D1117?style=for-the-badge&logo=NEXTJS&logoColor=0D0D03&labelColor=0D1117)&nbsp;
-![FLASK](https://img.shields.io/badge/-FLASK-0D1117?style=for-the-badge&logo=FLASK&logoColor=f1f2f3&labelColor=0D1117)&nbsp;
 ![MONGODB](https://img.shields.io/badge/-MONGODB-0D1117?style=for-the-badge&logo=MONGODB&logoColor=f1f2f3&labelColor=0D1117)&nbsp;
 ![POSTGRESQL](https://img.shields.io/badge/-POSTGRESQL-0D1117?style=for-the-badge&logo=POSTGRESQL&logoColor=f1f2f3&l007ACClor=0D1117)&nbsp;
 ![POSTGRESQL](https://img.shields.io/badge/Django-0D1117?style=for-the-badge&logo=django&logoColor=f1f2f3&l007ACClor=0D1117)&nbsp;
