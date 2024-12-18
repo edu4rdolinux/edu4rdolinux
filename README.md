@@ -4,7 +4,7 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=edu4rdolinux&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=c9d1d9&bg_color=0d1117" alt="xuniL github stats" /> 
-        <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edu4rdolinux&langs_count=9&layout=compact&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=c9d1d9&bg_color=0d1117" alt="xuniL github stats" /> 
+        <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edu4rdolinux&langs_count=12&layout=compact&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=c9d1d9&bg_color=0d1117" alt="xuniL github stats" /> 
   <img src="https://wakatime.com/badge/user/23c55239-999c-4c5b-b110-f53b26806031.svg"/>
 
 ### Main skills:
