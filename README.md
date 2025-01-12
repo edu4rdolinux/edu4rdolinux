@@ -23,7 +23,6 @@
 
 ### Tools
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-007ACClogo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
-![Intellij](https://img.shields.io/badge/-Intellij%20-0D1117?style=for-the-badge&logo=intellij&logoColor=111213ACC&labelColor=0D1117)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
 ![Github](https://img.shields.io/badge/-Github-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117)&nbsp;
