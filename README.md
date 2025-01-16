@@ -28,7 +28,7 @@
 ![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117)&nbsp;
 
 ### Other
-![Python](https://img.shields.io/badge/-PYTHON-0D1117?style=for-the-badge&logo=python&logoColor=007ACC&labelColor=0D1117)&nbsp;
+![Python](https://img.shields.io/badge/python-0D1117?style=for-the-badge&logo=python&logoColor=f1f2f3&l007ACClor=0D1117)&nbsp;
 ![Java](https://img.shields.io/badge/-JAVA-0D1117?style=for-the-badge&logo=java&logoColor=007ACC&labelColor=0D1117)&nbsp;
   
   <div align="center">
