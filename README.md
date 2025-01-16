@@ -28,8 +28,9 @@
 ![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117)&nbsp;
 
 ### Other
-![Python](https://img.shields.io/badge/python-0D1117?style=for-the-badge&logo=python&logoColor=f1f2f3&l007ACClor=0D1117)&nbsp;
-![Java](https://img.shields.io/badge/-JAVA-0D1117?style=for-the-badge&logo=java&logoColor=007ACC&labelColor=0D1117)&nbsp;
+![PYTHON](https://img.shields.io/badge/python-0D1117?style=for-the-badge&logo=python&logoColor=f1f2f3&l007ACClor=0D1117)&nbsp;
+![JAVA](https://img.shields.io/badge/-JAVA-0D1117?style=for-the-badge&logo=java&logoColor=007ACC&labelColor=0D1117)&nbsp;
+![CLANG](https://img.shields.io/badge/c-0D1117?style=for-the-badge&logo=c&logoColor=f1f2f3&l007ACClor=0D1117)&nbsp;
   
   <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
